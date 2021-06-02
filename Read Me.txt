@@ -1,0 +1,13 @@
+Branches
+------------
+1)	main
+2)		master
+3)			dev
+
+
+Working on dev branch and then after commit & push of dev branch
+	  merge dev branch into master and make commit & push on master branch
+		finally merge master branch into main branch and then make commit & push
+
+
+	::::::::::::::::::::BEST OF LUCK::::::::::::::::::::
