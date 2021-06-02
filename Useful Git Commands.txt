@@ -106,3 +106,21 @@ git branch -d dev				\\-d = delete	the command will delete dev branch from local
 git branch -D dev				\\-D delete forcefully
 git push --set-upstream origin dev		\\creates branch on Git Hub
 git push -u origin dev				\\ it is equalent to the command [git push --set-upstream origin dev].
+
+git fetch origin dev -v
+git merge origin/dev
+
+--------------------->
+When you [git pull --rebase], a few things happen:
+
+1. [git fetch origin master]
+
+-just using origin/master as an example
+
+2. [git rebase origin/master]
+
+moves all of your commits after the commits on origin/master
+At this point, you can now push to origin and your commits will be applied on top of all other commits cleanly.
+
+Without the --rebase flag, you'd end up with a merge commit; one that has two parents: your master branch and the work on origin/master
+<--------------------
