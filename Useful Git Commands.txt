@@ -1,0 +1,108 @@
+Types of version Control System
+Local 
+	i.e RCS
+Centralized
+	 i.e Server Client Model, One user can work on an item by "locking" the item on server
+	Change tracking/history is mainly don on server
+	SVN(Subversion), TFS
+Distributed
+	Each person work on its own local copy(as it is working on main repository)
+	Changes are merged later. Server may also b used.
+	Git, Mercurial
+Introduction to Git
+	Git is a distributed version control system.
+	Free & Open Source
+	Primarily used for source code management, but it can be used for any set of files.
+	Created by  Linus Torvalds in 2005
+	Command line tool
+Major Design Goals of Git
+	Distributed
+	Performance
+	Data integrity
+How you work with Git?
+	Step 1
+		Create Reepository ... working directory/Folder
+	Step 2
+		Make some changes ....Add/Edit/Delete files etc
+	Step 3
+		Move your changes to "Staging" so git can start tracking those
+	Step 4
+		Create Snapshot of your "Staged" changes by "Commit" command
+	Step 5
+		you repeat step 2 to 4 again and again
+Git creates Snapshots of your changes... you can go to any perivous snapshots that git has created for you
+Don't be confuse  by the words reppository staging staged and commit cause in a few moments all these will be on your finger tips
+
+https://git-scm.com/downloads		\\download for Windows Mac Linux Unix etc
+
+git config --global user.name "Hassan Ullah"		\\it will set the global username Hassan Ullah
+git config --global user.name				\\display global user name
+git config --global user.name "hassue@gmail.com"		\\it will set the global user email 
+git config --global user.email				\\display global user email
+git config -l
+
+git init "SomeFolderName"   	\\it will create folder SomeFolderName and it will be a repository
+git init 			\\it will create the folder itself a repository where you are.
+
+
+$ touch 'some test file.txt'			\\creates file with name "some test file.txt"
+$ mv 'some test.txt' 'Useful Git Commands.txt'	\\the command will rename file "some test.txt" to "Useful Git Commands.txt"
+$ rm 'Useful Git Commands.txt'			\\remove or delete file with name "some test.txt"
+
+git status			\\shows the untracked files
+
+
+
+git add .			\\all untracked files will become trackable
+
+git commit  -m "Saved the basic commands only" 	\\it works when there is no untracked file there.
+git commit -a -m "Saved the basic commands only"	\\it first add all the modified files to stage and then it will commit. if you have added new file 1.txt to repository then you have to use [git add 1.txt] or [git add .] command first
+
+
+git log					\\it will show all the commits you have done yet and the position of Head on the branch
+
+
+git reset --hard head^				\\it will remove the last commit and files will be on last commit status.. be very carefull to use this
+git reset --soft HEAD^			\\it will remove the last commit but leave the files as per last cimmit
+
+
+git restore lastStagedfilename.txt		\\it will unstage lastStagedfilename.txt
+git restore .				\\it will unstage all files that are staged
+
+\\add a file 1.txt with some txt
+git add .	\a)1.txt is staged
+\\b)add another line in 1.txt
+git checkout 1.txt				\\it will remove the b) added line and make the file staged till a). in simple words it discard all the changes in repository
+
+
+git show  059ef				\\059ef is the short id of commit, see these ids by git log command, it will give the details of that commit
+
+
+touch .gitignore				\\it will add .gitignore file
+
+
+						H-->master
+          			           			         |
+     commit 1 <-------------------------  commit 2 <--------------------------commit 3
+          |                                                |			          |
+ Changes of commit 1                     Changes of commit2            Changes of commit2
+
+
+git branch					\\it show all the branches, * shows the active branch
+git branch b1				\\it will create a new branch with name b1
+git checkout b1				\\it will make the branch b1 active
+
+-----Fast-forward
+git checkout master				\\master is branch name, by this command now master is active
+git merge b1				\\the active branch master is destination branch and merge b1 into master
+
+----Tipical Commit, when two branches merg. in this case new commit is generated because master branch and b1 branch both had some changes
+//open git gui app go to repository and from top menu "Repository -> visualize all branch history" 
+
+
+git branch					\\shows all the branches
+git branch dev				\\creates branch with name dev localy
+git branch -d dev				\\-d = delete	the command will delete dev branch from local repo 
+git branch -D dev				\\-D delete forcefully
+git push --set-upstream origin dev		\\creates branch on Git Hub
+git push -u origin dev				\\ it is equalent to the command [git push --set-upstream origin dev]
