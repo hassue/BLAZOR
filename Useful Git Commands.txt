@@ -105,4 +105,4 @@ git branch dev				\\creates branch with name dev localy
 git branch -d dev				\\-d = delete	the command will delete dev branch from local repo 
 git branch -D dev				\\-D delete forcefully
 git push --set-upstream origin dev		\\creates branch on Git Hub
-git push -u origin dev				\\ it is equalent to the command [git push --set-upstream origin dev]
+git push -u origin dev				\\ it is equalent to the command [git push --set-upstream origin dev].
