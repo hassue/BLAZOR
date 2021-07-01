@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WinFormsSalesApp.Models.BaseModel">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAgAAIAAAAAE=</HashCode>
+      <FileName>Models\BaseModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsSalesApp.Models.Sale">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsSalesApp.Models.SalesPerson">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAg=</HashCode>
+      <FileName>Models\SalesPerson.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WinFormsSalesApp.Models.SalesRegion">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Models\SalesRegion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="WinFormsSalesApp.Interfaces.IActive">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IActive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

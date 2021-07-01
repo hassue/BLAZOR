@@ -1,0 +1,11 @@
+G:\t\Done\[ FreeCourseWeb.com ] Entity Framework Core 5 - Getting Started\_Practice\SamuraiApp\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.deps.json
+G:\t\Done\[ FreeCourseWeb.com ] Entity Framework Core 5 - Getting Started\_Practice\SamuraiApp\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.dll
+G:\t\Done\[ FreeCourseWeb.com ] Entity Framework Core 5 - Getting Started\_Practice\SamuraiApp\SamuraiApp.Domain\bin\Debug\net5.0\ref\SamuraiApp.Domain.dll
+G:\t\Done\[ FreeCourseWeb.com ] Entity Framework Core 5 - Getting Started\_Practice\SamuraiApp\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.pdb
+G:\t\Done\[ FreeCourseWeb.com ] Entity Framework Core 5 - Getting Started\_Practice\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\t\Done\[ FreeCourseWeb.com ] Entity Framework Core 5 - Getting Started\_Practice\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.AssemblyInfoInputs.cache
+G:\t\Done\[ FreeCourseWeb.com ] Entity Framework Core 5 - Getting Started\_Practice\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.AssemblyInfo.cs
+G:\t\Done\[ FreeCourseWeb.com ] Entity Framework Core 5 - Getting Started\_Practice\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+G:\t\Done\[ FreeCourseWeb.com ] Entity Framework Core 5 - Getting Started\_Practice\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.dll
+G:\t\Done\[ FreeCourseWeb.com ] Entity Framework Core 5 - Getting Started\_Practice\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\ref\SamuraiApp.Domain.dll
+G:\t\Done\[ FreeCourseWeb.com ] Entity Framework Core 5 - Getting Started\_Practice\SamuraiApp\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.pdb
