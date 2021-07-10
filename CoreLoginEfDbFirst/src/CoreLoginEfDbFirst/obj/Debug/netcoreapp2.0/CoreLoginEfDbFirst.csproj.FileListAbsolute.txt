@@ -1,0 +1,15 @@
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\appsettings.json
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\CoreLoginEfDbFirst.deps.json
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\CoreLoginEfDbFirst.runtimeconfig.json
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\CoreLoginEfDbFirst.runtimeconfig.dev.json
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\CoreLoginEfDbFirst.dll
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\CoreLoginEfDbFirst.pdb
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.csprojAssemblyReference.cache
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.AssemblyInfoInputs.cache
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.AssemblyInfo.cs
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.csproj.CoreCompileInputs.cache
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.dll
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.pdb
+C:\HassanUllah10900_Do_Not_Delete\BLAZOR\BLAZOR\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.genruntimeconfig.cache
